@@ -24,4 +24,4 @@ def get_notes():
 @app.post("/notes")
 def add_note(note: Note):
     notes_db.append(note.text)
-    return {"message": "Заметка добавлена", "notes": notes_db}
+    return {"message": "Заметка добавленa", "notes": notes_db}

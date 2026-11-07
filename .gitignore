@@ -1,0 +1,8 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Настройки PyCharm / VS Code
+.idea/
+__pycache__/
+*.pyc

@@ -1,0 +1,8 @@
+# Игнорируем в Docker то же, что и в gitignore
+__pycache__
+*.pyc
+*.pyo
+.env
+.git
+.gitignore
+README.md

@@ -15,7 +15,7 @@ def read_root():
 
 @app.get("/health")
 def health_check():
-    return {"status": "ок"}
+    return {"status": "пашет"}
 
 @app.get("/notes")
 def get_notes():

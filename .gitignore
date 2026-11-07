@@ -2,7 +2,7 @@
 .venv/
 venv/
 
-# Настройки PyCharm / VS Code
+# Настройки PyCharm / VS
 .idea/
 __pycache__/
 *.pyc
